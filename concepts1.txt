@@ -1,4 +1,0 @@
-Hello my Name is Debbie
-A Boolean is True or False. (True)
-Deb: "You're so full of BOOL your eyes are brown!"
-lol lol!
