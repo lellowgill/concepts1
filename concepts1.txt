@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> main
 PART I
 
 Navigating the File System
@@ -62,9 +65,12 @@ You can open you file and make changes and add to your previous work.
 
 I could change it by either Git revert to drop the data and keep the file or I  could reset to start completely over. 
 
+<<<<<<< HEAD
 =======
 Hello my Name is Debbie
 A Boolean is True or False. (True)
 Deb: "You're so full of BOOL your eyes are brown!"
 lol lol!
+>>>>>>> main
+=======
 >>>>>>> main
