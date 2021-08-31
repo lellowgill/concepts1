@@ -3,8 +3,9 @@ PART I
 Navigating the File System
 
 1.  How do you move back and forth between directories?
-    CD is Change Directory and to come out of the Directory I can CD ..
-    or to go to the top of the Directory I can CD ~ or - CD
+
+CD is Change Directory and to come out of the Directory I can CD ..
+or to go to the top of the Directory I can CD ~ or - CD
 
 2.  How do you create and delete files?
 Create a file touch add file, to delete a file RM file name hit tab to complete the file name for a shortcut
