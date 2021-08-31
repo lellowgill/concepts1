@@ -14,6 +14,7 @@ Create a file touch add file, to delete a file RM file name hit tab to complete 
 
 CD to desktop and mkdir ___ name of your choice, to delete a Directory I would RMDIR (Directory name) and then ls to make sure the file is deleted. 
     
+
 4.  How can I see exactly where I am within the filesystem?
 
 Git Branch

@@ -1,0 +1,103 @@
+PART II
+Python
+1.  How do I run my code from the terminal?
+Python3 name of the file
+
+2.  What can I use to reference a value later in my code?
+value = ()
+3.  How can I make my program display text or some value in my terminal?
+print(name_of_value)
+
+4.  How can I make my code make decisions on which code to execute?
+create a function that will make sure there isn't an infinite loop 
+
+5.  How can I repeat blocks of code based on conditions?
+The function that will make sure there isn't an infinite loop 
+
+6.  Why is it critical to ensure that our conditions eventually become false when repeating blocks of code?
+Because we will have an infinite Loop
+
+7.  What are sequences and what are the differences between them?
+sequences is an ordered set of values, strings or floats, integers. 
+
+8.  How do I access a value within the various types of sequences?
+index[] name the index place to acces 
+
+9.  What is an index when talking about sequences?
+List zero-based range 
+10. What is the index of the first value within a sequence?
+index[0] it is 0 zero-based range 
+
+11. How can I add or remove a value from a sequence?
+index.pop[]
+
+12. What is the index of the last value within a sequence?
+index[-1]
+
+13. How can I get the length of a sequence?
+range()
+
+14. What can I use to reference and use a block of code later in my code?
+variable[]
+variable = []
+
+15. What is DRY?
+Do.Not.Repeat.Yourself
+
+16. What is Scope? Provide an example.
+Scope is the block of code. Python scope contains the name that is define inside the function. 
+
+17. What is the difference between parameters and arguments?
+18. What is recursion?
+def factorial_recursive(n):
+    #Base case: 1! = 1
+        return 1
+    #Recursive case: n! = n * (n-1)
+    else: 
+        return n * factorial_recursive(n-1)    
+
+19. How can you return a value from a function?
+if wallet = 100 if statements 
+
+20. Describe a dictionary. How and why would it be useful?
+Dictionary is {} key value or pairs. I can be dictionary{"first_name": "Debbie": "age": 21}
+print(user["age"]) 
+
+21. How can you remove a value from a dictionary?
+index.remove[] or index.pop[]
+
+22. How can you access and change values within a dictionary?
+I access the values by index[0] change a index.insert[]
+
+23. What data types can a sequence hold?
+Intergers 12345...
+
+
+24. What data types can a dictionary hold?
+"strings" integers 
+25. How can you iterate through a dictionary?
+You can create a for loop
+
+
+26. What is object oriented programming?
+Classes are object oriented. 
+
+
+27. Describe a class? Why are they useful?
+Object oriented programming like a blueprint. They useful because it gives great detail and seperation. 
+
+28. What are class properties? How would I give a class an initial set of properties?
+By categories like for instance a car can be a class. Infiniti Sedan Q50 Pearl White, Sports model
+
+29. What are class methods?
+Abilities, functionality
+
+30. What is inheritence?
+
+31.  What are the various data types?
+"strings"
+Integers 1224 whole numbers
+Float 213.345 decimal point
+Boolean True/False
+List []
+Dictionary {}
