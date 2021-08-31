@@ -1,3 +1,63 @@
-Hello my Name is Debbie
-A Boolean is True or False. (True)
+PART I
+
+Navigating the File System
+
+1.  How do you move back and forth between directories?
+
+CD is Change Directory and to come out of the Directory I can CD ..
+or to go to the top of the Directory I can CD ~ or - CD
+
+2.  How do you create and delete files?
+Create a file touch add file, to delete a file RM file name hit tab to complete the file name for a shortcut
+
+
+3.  How do you create and delete directories?
+
+CD to desktop and mkdir ___ name of your choice, to delete a Directory I would RMDIR (Directory name) and then ls to make sure the file is deleted. 
+    
+
+4.  How can I see exactly where I am within the filesystem?
+
+Git Branch
+
+5.  How can I see the files and directories within the current directory that I am in?
+
+List by typing ls or ls -alt
+
+Git
+1.  How do you let git know you want to track changes made in a directory?
+
+Git add file name (and Git commit -m "leave a note")
+
+2.  How do you tell git that you like the work you’ve done and want it to be a part of a chunk of work to be saved?
+
+Git commit -m "leave a note" then you would Git push to your respository.
+
+3.  How do you tell git you want to save a chunk of work?
+
+Git
+
+4.  How do you tell git where to push your local changes up to a online repository?
+
+By copying the respository name you created in your Git app/profile. 
+
+5.  How can you safely work on a different version of your current project?
+
+You would create a new Branch to work off of, so it will not interfere with your current work. 
+
+6.  How can you make that different version become a part of your main version
+
+Git merge main is the command you would use to merge you different versions. 
+
+7.  How do I move between versions of my project?
+
+Git Branch is where you would change to different versions of your work. 
+
+8.  How can I go back to previous chunks of work that I’ve created and work from that point in time?
+
+You can open you file and make changes and add to your previous work. 
+
+9.  Let’s say I wrote a bad message for a commit. How could I change it? 
+
+I could change it by either Git revert to drop the data and keep the file or I  could reset to start completely over. 
 
