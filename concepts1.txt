@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 PART I
 
 Navigating the File System
