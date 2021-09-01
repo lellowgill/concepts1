@@ -107,6 +107,7 @@ For
 Create a loop
 
 26. What is object oriented programming?
+
 OOP is like a item we use on every day basis, for instance a creating reusable code. 
 A human is a object and it will have the following properties;
 name, age, color is a properties

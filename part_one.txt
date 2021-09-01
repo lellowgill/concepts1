@@ -56,7 +56,9 @@ Git Branch is where you would change to different versions of your work.
 
 8.  How can I go back to previous chunks of work that I’ve created and work from that point in time?
 
-You can open your file and make changes and add to your previous work. 
+You can open your file and make changes and add to your previous work.
+CD into the directory open file you last worked on. 
+
 
 9.  Let’s say I wrote a bad message for a commit. How could I change it? 
 
