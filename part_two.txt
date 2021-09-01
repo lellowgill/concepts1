@@ -107,7 +107,12 @@ For
 Create a loop
 
 26. What is object oriented programming?
-Classes are object oriented. 
+
+OOP is like a item we use on every day basis, for instance a creating reusable code. 
+A human is a object and it will have the following properties;
+name, age, color is a properties
+dancing, singing is behaviors.
+the object has two characteristics: attributes and behaviors
 
 27. Describe a class? Why are they useful?
 Object oriented programming like a blueprint. They are useful because it gives great detail and seperation. 
