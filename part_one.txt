@@ -43,6 +43,9 @@ By copying the respository name you created in your Git app/profile.
 5.  How can you safely work on a different version of your current project?
 
 You would create a new Branch to work off of, so it will not interfere with your current work. 
+You would create a new Branch to work off of, so it will not interfere with your current work. 
+Git checkout branch_name and work in the changes.
+Git Branch file_name and Git checkout file_name.txt 
 
 6.  How can you make that different version become a part of your main version
 
