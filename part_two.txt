@@ -1,0 +1,136 @@
+PART II
+Python
+
+1.  How do I run my code from the terminal?
+Python3 name_of_the_file.py
+
+2.  What can I use to reference a value later in my code?
+variabele = value
+
+3.  How can I make my program display text or some value in my terminal?
+print(name_of_value)
+
+4.  How can I make my code make decisions on which code to execute?
+Bash scripting 
+echo [options(s)][strings] 
+echo Hello World 
+
+5.  How can I repeat blocks of code based on conditions?
+Loops
+repeat/until loop. A loop that executes a block of statements repeatedly, until a given condition evaluates to true. 
+if, elif and else:
+
+6.  Why is it critical to ensure that our conditions eventually become false when repeating blocks of code?
+If we do not make it False it will become an Infinite loop.
+
+7.  What are sequences and what are the differences between them?
+Sequences is an ordered set, which means that the order in which we input the items will be the same when we access them.
+(values, strings or floats, Lists, Tuples, range() objects, integers). 
+
+8.  How do I access a value within the various types of sequences?
+index[] name the index place to access various types of sequence.
+
+9.  What is an index when talking about sequences?
+zero-based range. Is a set of values in a certain order, however that the order can be rearranged using the index.sort()
+
+10. What is the index of the first value within a sequence?
+index[0] which it is 0 zero-based range  
+
+11. How can I add or remove a value from a sequence?
+index.pop[] will remove the last value of the index or choose which value that would start at -1 or whatever index number. 
+for name in names:
+    if name[-5:] == "Thomas"
+        names.remove(name)
+toremove = []
+for name in names:
+    if name[-5:] == "Thomas"
+        toremove.append(name)
+for name in toremove:
+    names.remove(name)
+del toremove            
+
+
+12. What is the index of the last value within a sequence?
+index[-1] is the last value.
+
+13. How can I get the length of a sequence?
+len()Method len(list)
+
+14. What can I use to reference and use a block of code later in my code?
+variable = value()
+
+15. What is DRY?
+Do.Not.Repeat.Yourself
+
+16. What is Scope? Provide an example.
+Scope is the block of code. Python scope contains the name that is define inside the function. 
+
+
+17. What is the difference between parameters and arguments?
+The terms parameter  and arguent dcan be used for the same thing: information that are passed into a function.  
+A parameter is the variable listed inside the parentheses in the function definition. An arguentis the value that are sent to the function when it is called.
+
+18. What is recursion?
+def function():
+    x = 10
+    function()
+
+19. How can you return a value from a function?
+def fun()
+    statements 
+    .
+    .
+    return[expression]
+if loop
+while loop    
+
+20. Describe a dictionary. How and why would it be useful?
+Dictionary is {} key value pairs.
+{"first_name": "Debbie": "age": 21}
+print(user["age"]) 
+
+21. How can you remove a value from a dictionary?
+index.remove[] or index.pop[] del index []
+
+22. How can you access and change values within a dictionary?
+I access the values by index[0] number position and to change an index.insert[]
+
+23. What data types can a sequence hold?
+Intergers 12345..., "strings", Floats, List, dictionary. 
+
+24. What data types can a dictionary hold?
+"strings" integers 
+
+25. How can you iterate through a dictionary?
+while
+For
+Create a loop
+
+26. What is object oriented programming?
+Classes are object oriented. 
+
+27. Describe a class? Why are they useful?
+Object oriented programming like a blueprint. They are useful because it gives great detail and seperation. 
+
+28. What are class properties? How would I give a class an initial set of properties?
+By categories for instance a car can be a class. Infiniti 4-door Sedan Q50 Pearl White, Sports model
+
+29. What are class methods?
+Abilities, functionality
+
+30. What is inheritence?
+inheritence allows us to define a class. 
+base class is the parent class
+derived class is the child class
+class Person
+    def __init__(self, fname, lname):
+        self.firstname = fname 
+        self.lastname = lname
+
+31.  What are the various data types?
+"strings"
+Integers 1224 whole numbers
+Float 213.345 decimal point
+Boolean True/False
+List []
+Dictionary {}
